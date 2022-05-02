@@ -43,10 +43,9 @@ The analysis of the election provides the following outcomes:
 
 
     
-![Election Results Snapshot]
 
 ## Election Audit Summary
 
  
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The Election Analysis findinds creates an opportunity for using this audit on a higher level. We can even use this code to do analysis on Census, not just elections. This codes gives opportunity to answer many questions related to the population and it is so incredible how we can add more options such as counties in the PyPoll Challenge to information in each county. 
 
