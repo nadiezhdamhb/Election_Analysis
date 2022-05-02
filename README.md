@@ -47,5 +47,7 @@ The analysis of the election provides the following outcomes:
 ## Election Audit Summary
 
  
-The Election Analysis findinds creates an opportunity for using this audit on a higher level. We can even use this code to do analysis on Census, not just elections. This codes gives opportunity to answer many questions related to the population and it is so incredible how we can add more options such as counties in the PyPoll Challenge to information in each county. 
+The Election Analysis findinds creates an opportunity for using this audit on a higher level. We can even use this code to do analysis on Census, not just elections. This codes gives opportunity to answer many questions related to the population and it is so incredible how we can add more options such as counties in the PyPoll Challenge to retrieve specific information regarding the data. 
+
+We could take this analysis even further. Thank you.
 
