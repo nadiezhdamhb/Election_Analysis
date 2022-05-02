@@ -42,7 +42,7 @@ The analysis of the election provides the following outcomes:
     - Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
 
 
-    
+ ![Election_results_screenshot](https://github.com/nadiezhdamhb/Election_Analysis/blob/main/Resources/election%20results%20screenshot.png)   
 
 ## Election Audit Summary
 
